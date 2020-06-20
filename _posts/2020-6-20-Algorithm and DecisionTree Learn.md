@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Record everyday
+title: 20200620 growth record.
 ---
 
 I've been taking notes in the YouDaoYun Software, so check out the link below to get my notes： 
